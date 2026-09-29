@@ -1,3 +1,5 @@
+I'm not a creator of this product, please see https://www.14point7.com/pages/software-and-documentation for latest updates from the creator
+
 SLC Free 2 is licensed under GNU GPL V3
 
 Use Cypress PSOC Designer 5.4 to build/compile Firmware
